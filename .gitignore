@@ -1,0 +1,24 @@
+# Private source materials
+*.pdf
+/Assignment1_2026/
+/docs/superpowers/
+
+# Data and model artifacts
+/Data/
+/_data/
+/_model/
+/_log/
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Experiment logs and generated caches
+*.log
+__pycache__/
+.ipynb_checkpoints/
+
+# Local environment
+.env
+.venv/
+venv/
