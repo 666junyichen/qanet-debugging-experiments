@@ -58,14 +58,4 @@ This repository documents a deep learning debugging and experiment project built
 +-- .gitignore
 ```
 
-## Public Release Notes / 公开说明
 
-The public materials in this repository intentionally remove names, student identifiers, course codes, school names, submission metadata, and raw private files. The original report and raw experiment assets are treated as private source material and should not be uploaded unless they are separately anonymized.
-
-本仓库中的公开材料已刻意移除姓名、学号、课程代码、学校名称、提交信息和原始私有文件。原始报告和原始实验资产仅作为内部来源材料，不应直接上传，除非已经单独完成匿名化处理。
-
-## Local-Only Source Material / 仅本地保留材料
-
-The original `Assignment1_2026/` folder is intentionally ignored by Git. The publishable code has been copied and cleaned under `src/`.
-
-原始 `Assignment1_2026/` 文件夹已被 Git 忽略，只保留在本地。适合公开的代码已复制并清理到 `src/`。
